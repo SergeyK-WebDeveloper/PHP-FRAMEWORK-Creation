@@ -52,3 +52,45 @@
 ==========================
 [2017-05-25 15:37:21] Текст ошибки: require(D:\WebServer\domains\fw.loc\app\views\Main/menu_tpl/select.php): failed to open stream: No such file or directory | Файл: D:\WebServer\domains\fw.loc\vendor\widgets\menu\Menu.php, | Строка: 67
 ==========================
+[2017-05-30 18:40:11] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
+==========================
+[2017-05-30 18:40:11] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
+==========================
+[2017-06-10 12:50:51] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
+==========================
+[2017-06-10 12:50:51] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
+==========================
+[2017-06-10 13:02:57] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 96
+==========================
+[2017-06-10 13:03:16] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
+==========================
+[2017-06-10 13:04:31] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
+==========================
+[2017-06-10 13:09:44] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 96
+==========================
+[2017-06-10 13:13:11] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 96
+==========================
+[2017-06-10 13:13:28] Текст ошибки: Контроллер <b>app\controllers\TestController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 96
+==========================
+[2017-06-10 13:13:35] Текст ошибки: Контроллер <b>app\controllers\TestController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 96
+==========================
+[2017-06-10 13:15:21] Текст ошибки: Контроллер <b>app\controllers\TestController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 97
+==========================
+[2017-06-10 13:16:40] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 99
+==========================
+[2017-06-10 13:16:53] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 99
+==========================
+[2017-06-10 13:17:32] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 99
+==========================
+[2017-06-10 13:17:49] Текст ошибки: Контроллер <b>app\controllers\TestController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 99
+==========================
+[2017-06-10 13:17:53] Текст ошибки: Контроллер <b>app\controllers\TestController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 99
+==========================
+[2017-06-10 13:19:41] Текст ошибки: Контроллер <b>app\controllers\TestController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 103
+==========================
+[2017-06-10 13:21:34] Текст ошибки: Контроллер <b>app\controllers\admin\TestController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 102
+==========================
+[2017-06-10 13:21:50] Текст ошибки: Контроллер <b>app\controllers\admin\UserController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 102
+==========================
+[2017-06-10 13:33:38] Текст ошибки: <p>Не найден вид <b>D:\WebServer\domains\fw.loc/app/views/admin\User/index.php</b></p> | Файл: D:\WebServer\domains\fw.loc\vendor\core\base\View.php, | Строка: 51
+==========================
