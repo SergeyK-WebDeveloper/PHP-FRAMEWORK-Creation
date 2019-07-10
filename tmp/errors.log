@@ -44,3 +44,11 @@
 ==========================
 [2017-05-09 18:38:47] Текст ошибки: E_USER_ERROR | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 21
 ==========================
+[2017-05-25 15:03:55] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
+==========================
+[2017-05-25 15:37:06] Текст ошибки: require(D:\WebServer\domains\fw.loc\app\views\Main/menu_tpl/select.php): failed to open stream: No such file or directory | Файл: D:\WebServer\domains\fw.loc\vendor\widgets\menu\Menu.php, | Строка: 67
+==========================
+[2017-05-25 15:37:06] Текст ошибки: require(): Failed opening required 'D:\WebServer\domains\fw.loc\app\views\Main/menu_tpl/select.php' (include_path='.;d:/webserver/modules/php/PHP-5.6;d:/webserver/modules/php/PHP-5.6/PEAR/pear') | Файл: D:\WebServer\domains\fw.loc\vendor\widgets\menu\Menu.php, | Строка: 67
+==========================
+[2017-05-25 15:37:21] Текст ошибки: require(D:\WebServer\domains\fw.loc\app\views\Main/menu_tpl/select.php): failed to open stream: No such file or directory | Файл: D:\WebServer\domains\fw.loc\vendor\widgets\menu\Menu.php, | Строка: 67
+==========================
