@@ -11,14 +11,6 @@
         'cacheKey' => 'menu_select',
     ]); ?>
 
-    <?php /*new \fw\widgets\menu\Menu([
-        'tpl' => WWW . '/menu/my_menu.php',
-        'container' => 'ul',
-        'class' => 'my-menu',
-        'table' => 'categories',
-        'cache' => 60,
-        'cacheKey' => 'menu_ul',
-    ]); */?>
     <?php if (!empty($posts)): ?>
         <?php foreach ($posts as $post): ?>
             <div class="panel panel-default">
