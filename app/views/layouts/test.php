@@ -4,9 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title><?=$meta['title']?></title>
-        <meta name="description" content="<?= $meta['desc'] ?>">
-        <meta name="keywords" content="<?= $meta['keywords'] ?>">
+        <title>DEFAULT | <?=$title?></title>
         <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <link href="/css/main.css" rel="stylesheet">
         <!--[if lt IE 9]>
@@ -17,14 +15,7 @@
     <body>
         
         <div class="container">
-            <?php if(!empty($menu)): ?>
-            <ul class="nav nav-pills">
-                <li><a href="page/about">About</a></li>
-            <?php foreach ($menu as $item): ?>  
-                <li><a href="category/<?= $item['id'] ?>"><?= $item['title'] ?></a></li>
-            <?php endforeach; ?>
-            </ul>
-            <?php endif; ?>
+            Здесь нет меню
             <h1>Hello, world!</h1>
 
             <?= $content ?>
