@@ -18,3 +18,29 @@
 ==========================
 [2017-04-26 20:37:58] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
 ==========================
+[2017-05-09 18:15:30] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
+==========================
+[2017-05-09 18:31:39] Текст ошибки: Undefined variable: test | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 20
+==========================
+[2017-05-09 18:31:53] Текст ошибки: Undefined variable: test | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 20
+==========================
+[2017-05-09 18:35:18] Текст ошибки: Undefined variable: test | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 20
+==========================
+[2017-05-09 18:35:27] Текст ошибки: Undefined variable: test | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 20
+==========================
+[2017-05-09 18:35:44] Текст ошибки: Undefined variable: test | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 20
+==========================
+[2017-05-09 18:35:44] Текст ошибки: Call to undefined function app\controllers\test() | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 21
+==========================
+[2017-05-09 18:36:26] Текст ошибки: E_USER_ERROR | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 21
+==========================
+[2017-05-09 18:37:43] Текст ошибки: E_USER_ERROR | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 21
+==========================
+[2017-05-09 18:37:53] Текст ошибки: E_USER_ERROR | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 21
+==========================
+[2017-05-09 18:38:08] Текст ошибки: Undefined variable: test | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 20
+==========================
+[2017-05-09 18:38:14] Текст ошибки: E_USER_ERROR | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 21
+==========================
+[2017-05-09 18:38:47] Текст ошибки: E_USER_ERROR | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 21
+==========================
