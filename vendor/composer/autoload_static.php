@@ -44,6 +44,16 @@ class ComposerStaticInit5a42e5f306c5091ec6eb21230284ec66
         ),
     );
 
+    public static $prefixesPsr0 = array (
+        'V' => 
+        array (
+            'Valitron' => 
+            array (
+                0 => __DIR__ . '/..' . '/vlucas/valitron/src',
+            ),
+        ),
+    );
+
     public static $classMap = array (
         'EasyPeasyICS' => __DIR__ . '/..' . '/phpmailer/phpmailer/extras/EasyPeasyICS.php',
         'PHPMailer' => __DIR__ . '/..' . '/phpmailer/phpmailer/class.phpmailer.php',
@@ -60,6 +70,7 @@ class ComposerStaticInit5a42e5f306c5091ec6eb21230284ec66
         return \Closure::bind(function () use ($loader) {
             $loader->prefixLengthsPsr4 = ComposerStaticInit5a42e5f306c5091ec6eb21230284ec66::$prefixLengthsPsr4;
             $loader->prefixDirsPsr4 = ComposerStaticInit5a42e5f306c5091ec6eb21230284ec66::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInit5a42e5f306c5091ec6eb21230284ec66::$prefixesPsr0;
             $loader->classMap = ComposerStaticInit5a42e5f306c5091ec6eb21230284ec66::$classMap;
 
         }, null, ClassLoader::class);
