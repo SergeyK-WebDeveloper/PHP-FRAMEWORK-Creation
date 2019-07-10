@@ -66,3 +66,13 @@
 ==========================
 [2018-04-24 19:55:07] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
 ==========================
+[2018-05-15 18:20:59] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-15 18:20:59] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 12:56:30] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 12:56:30] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:20:12] Текст ошибки: Class 'fw\core\language\Language' not found | Файл: D:\WebServer\domains\fw.loc\app\controllers\AppController.php, | Строка: 19
+==========================

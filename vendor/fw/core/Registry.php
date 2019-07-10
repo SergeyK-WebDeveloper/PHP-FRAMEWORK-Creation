@@ -2,47 +2,25 @@
 
 namespace fw\core;
 
-/**
- * Description of Registry
- *
- */
 class Registry {
 
     use TSingletone;
 
-    public static $objects = [];
-    
-//    protected static $instance;
-    
-    protected function __construct() {
-        require_once ROOT . '/config/config.php';
-        foreach($config['components'] as $name => $component){
-            self::$objects[$name] = new $component;
-        }
+    protected static $properties = [];
+
+    public function setProperty($name, $value){
+        self::$properties[$name] = $value;
     }
-    
-    /*public static function instance() {
-        if(self::$instance === null){
-            self::$instance = new self;
+
+    public function getProperty($name){
+        if(isset(self::$properties[$name])){
+            return self::$properties[$name];
         }
-        return self::$instance;
-    }*/
-    
-    public function __get($name) {
-        if(is_object(self::$objects[$name])){
-            return self::$objects[$name];
-        }
+        return null;
     }
-    
-    public function __set($name, $object) {
-        if(!isset(self::$objects[$name])){
-            self::$objects[$name] = new $object;
-        }
+
+    public function getProperties(){
+        return self::$properties;
     }
-    
-    public function getList(){
-        echo '<pre>';
-        var_dump(self::$objects);
-        echo '</pre>';
-    }
+
 }
