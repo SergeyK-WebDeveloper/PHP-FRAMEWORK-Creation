@@ -16,3 +16,5 @@
 ==========================
 [2018-03-24 12:14:37] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
 ==========================
+[2018-03-24 13:11:30] Текст ошибки: Undefined variable: count | Файл: D:\WebServer\domains\fw.loc\app\views\Main\index.php, | Строка: 24
+==========================
