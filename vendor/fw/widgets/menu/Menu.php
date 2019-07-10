@@ -2,6 +2,7 @@
 
 namespace fw\widgets\menu;
 
+use fw\core\App;
 use fw\libs\Cache;
 
 class Menu{
