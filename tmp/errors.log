@@ -1,0 +1,20 @@
+[2017-04-26 20:31:29] Текст ошибки: syntax error, unexpected '$posts' (T_VARIABLE) | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 21
+==========================
+[2017-04-26 20:34:33] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
+==========================
+[2017-04-26 20:34:33] Текст ошибки: require(D:\WebServer\domains\fw.loc\public/errors/404.html): failed to open stream: No such file or directory | Файл: D:\WebServer\domains\fw.loc\vendor\core\ErrorHandler.php, | Строка: 50
+==========================
+[2017-04-26 20:35:30] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
+==========================
+[2017-04-26 20:35:55] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
+==========================
+[2017-04-26 20:36:45] Текст ошибки: Undefined variable: test | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 20
+==========================
+[2017-04-26 20:36:54] Текст ошибки: Undefined variable: test | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 20
+==========================
+[2017-04-26 20:37:38] Текст ошибки: Undefined variable: test | Файл: D:\WebServer\domains\fw.loc\app\controllers\MainController.php, | Строка: 20
+==========================
+[2017-04-26 20:37:49] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
+==========================
+[2017-04-26 20:37:58] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\core\Router.php, | Строка: 101
+==========================

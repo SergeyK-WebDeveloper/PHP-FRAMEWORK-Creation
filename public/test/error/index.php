@@ -1,10 +1,5 @@
 <?php
 
-/*
- * https://habrahabr.ru/post/161483/
- * https://gist.github.com/codedokode/65d43ca5ac95c762bc1a
- */
-
 define("DEBUG", 1);
 
 class NotFoundException extends Exception{
