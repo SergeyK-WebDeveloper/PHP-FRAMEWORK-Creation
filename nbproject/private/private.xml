@@ -3,8 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/WebServer/domains/fw.loc/vendor/core/Db.php</file>
-            <file>file:/D:/WebServer/domains/fw.loc/public/test.php</file>
+            <file>file:/D:/WebServer/domains/fw.loc/public/test/classes/Cache.php</file>
+            <file>file:/D:/WebServer/domains/fw.loc/public/test/index.php</file>
+            <file>file:/D:/WebServer/domains/fw.loc/app/controllers/MainController.php</file>
+            <file>file:/D:/WebServer/domains/fw.loc/public/test/classes/Test.php</file>
+            <file>file:/D:/WebServer/domains/fw.loc/public/test/classes/Test2.php</file>
+            <file>file:/D:/WebServer/domains/fw.loc/config/config.php</file>
+            <file>file:/D:/WebServer/domains/fw.loc/vendor/libs/Cache.php</file>
         </group>
     </open-files>
 </project-private>
