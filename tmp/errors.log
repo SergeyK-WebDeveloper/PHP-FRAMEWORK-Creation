@@ -1,0 +1,10 @@
+[2017-09-24 13:07:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2017-09-24 13:07:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2017-09-24 13:40:48] Текст ошибки: Undefined variable: _SESSION | Файл: D:\WebServer\domains\fw.loc\app\views\layouts\default.php, | Строка: 27
+==========================
+[2017-09-24 13:48:02] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login' | Файл: D:\WebServer\domains\fw.loc\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2017-09-24 14:06:12] Текст ошибки: Undefined property: fw\core\base\View::$prefix | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\base\View.php, | Строка: 44
+==========================
