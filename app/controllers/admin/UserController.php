@@ -25,8 +25,8 @@ class UserController extends AppController{
         $this->set(compact('test', 'data'));
     }
 
-    public function testAction(){
-//        $this->layout = 'admin';
+    public function loginAction(){
+        $this->layout = 'login';
     }
 
 }
