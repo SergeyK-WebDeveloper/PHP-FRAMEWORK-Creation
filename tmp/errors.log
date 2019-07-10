@@ -192,3 +192,9 @@
 ==========================
 [2019-03-25 14:46:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
 ==========================
+[2019-03-25 15:05:39] Текст ошибки: Undefined index: password | Файл: D:\WebServer\domains\fw.loc\app\models\User.php, | Строка: 47
+==========================
+[2019-03-25 15:06:00] Текст ошибки: Undefined index: password | Файл: D:\WebServer\domains\fw.loc\app\models\User.php, | Строка: 47
+==========================
+[2019-03-25 15:10:10] Текст ошибки: Class 'R' not found | Файл: D:\WebServer\domains\fw.loc\app\controllers\admin\MainController.php, | Строка: 8
+==========================
