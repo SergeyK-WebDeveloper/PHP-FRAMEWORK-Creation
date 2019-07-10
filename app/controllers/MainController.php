@@ -3,6 +3,7 @@
 namespace app\controllers;
 
 use app\models\Main;
+use vendor\core\App;
 
 /**
  * Description of Main
@@ -13,8 +14,19 @@ class MainController extends AppController{
 //    public $layout = 'main';
     
     public function indexAction(){
+//        App::$app->getList();
+        \R::fancyDebug(true);
         $model = new Main;
-        $posts = \R::findAll('posts');
+        
+        $posts = App::$app->cache->get('posts');
+        if(!$posts){
+            $posts = \R::findAll('posts');
+            App::$app->cache->set('posts', $posts, 3600*24);
+        }
+        
+//        echo date('Y-m-d H:i', time());
+//        echo '<br>';
+//        echo date('Y-m-d H:i', 1488105457);
         $post = \R::findOne('posts', 'id = 1');
         $menu = $this->menu;
         $title = 'PAGE TITLE';
