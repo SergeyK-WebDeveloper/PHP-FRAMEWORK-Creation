@@ -6,7 +6,7 @@ namespace app\controllers;
  * Description of App
  *
  */
-class AppController extends \vendor\core\base\Controller{
+class AppController extends \fw\core\base\Controller{
     
     public $menu;
     public $meta = [];

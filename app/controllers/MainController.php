@@ -3,8 +3,10 @@
 namespace app\controllers;
 
 use app\models\Main;
-use vendor\core\App;
-use vendor\core\base\View;
+use fw\core\App;
+use fw\core\base\View;
+use Monolog\Handler\StreamHandler;
+use Monolog\Logger;
 
 /**
  * Description of Main
@@ -15,6 +17,19 @@ class MainController extends AppController{
 //    public $layout = 'main';
     
     public function indexAction(){
+
+        // create a log channel
+        $log = new Logger('name');
+        $log->pushHandler(new StreamHandler(ROOT . '/tmp/your.log', Logger::WARNING));
+
+// add records to the log
+        $log->warning('Foo');
+        $log->error('Bar');
+
+        $mailer = new \PHPMailer();
+        var_dump($mailer);
+
+
 //        \R::fancyDebug(true);
         $model = new Main;
 //        echo $test;
